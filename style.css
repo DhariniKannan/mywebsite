@@ -29,6 +29,10 @@ p {
 }
 
 /* Links */
+body{
+background-color: blue;
+}
+
 a {
   color: #1e90ff;
   text-decoration: none;
@@ -36,3 +40,4 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
